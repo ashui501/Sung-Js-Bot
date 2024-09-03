@@ -1,1 +1,1 @@
-worker: node Sung/index
+worker: node Sung

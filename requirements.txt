@@ -1,0 +1,7 @@
+python-decouple
+telethon
+python-telegram-bot==20.8
+python-dotenv==1.0.0
+requests
+pyrofork 
+tgcrypto==1.2.5
